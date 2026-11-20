@@ -1,4 +1,4 @@
-(footprint "radio-receiver"
+(footprint "rx480"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "radio-receiver"
+	(property "Value" "rx480"
 		(at 10.111108 5.777776 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -208,7 +208,7 @@
 		(remove_unused_layers no)
 		(uuid "56203312-9e44-4915-a95b-6e20a2747e7c")
 	)
-	(model "${KIPRJMOD}/lib/radio-receiver/radio-receiver.step"
+	(model "${KIPRJMOD}/lib/rx480/rx480.step"
 		(offset
 			(xyz 12.6 -4.25 6.1)
 		)

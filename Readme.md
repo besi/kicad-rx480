@@ -15,12 +15,12 @@ Radio Receiver Footprint
 3. Now in Kicad in the schematic editor add the symbol library via **Preferences >> Manage Symbol Libraries**:
 
         Nickname:       rx480
-        Library Path:   ${KIPRJMOD}/lib/radio-receiver/rx480.kicad_sym
+        Library Path:   ${KIPRJMOD}/lib/rx480/rx480.kicad_sym
 
 4. Now in the layout editor add the footprint library via **Preferences >> Manage Footprint Libraries...**:
 
         Nickname:       rx480
-        Library Path:   ${KIPRJMOD}/lib/radio-receiver/rx480.pretty
+        Library Path:   ${KIPRJMOD}/lib/rx480/rx480.pretty
 
 
 ## Credits
